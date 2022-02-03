@@ -1,0 +1,21 @@
+﻿@model Currencies
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <h2>Güncel Döviz Kurları - <span class="text-light-50-info"> @DateTime.Now.Date.ToShortDateString()</span></h2>
+    <ul class="list-group">
+
+        <li class="list-group-item"><span class="text-light-50-inf">Döviz Cinsi /</span> <span> Alış Fiyatı /</span><span class="text-light-50-inf"> Satış Fiyatı</span></li> 
+
+        @foreach(var item in Model.TCMB_AnlikKurBilgileri)
+        {
+            <li class="list-group-item"><span class="text-light-50-inf"> @item.Isim</span> <span>@item.BanknoteSelling</span><span class="text-light-50-inf"> @item.BanknoteSelling</span></li>                          
+        }       
+    </ul>
+</div>
+    
+
+   
