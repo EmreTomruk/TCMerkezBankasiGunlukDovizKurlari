@@ -1,0 +1,14 @@
+﻿@using TCMBCurrencies.Models
+@model News
+
+@{
+    ViewData["Title"] = "News Page";
+}
+
+<div class="container">
+    <h2>Güncel Haberler - <span class="text-light-50-info">@DateTime.Now.Date.ToShortDateString()</span></h2>
+    <ul class="list-group">
+
+        <li class="list-group-item"><span class="text-light-50-inf">@ViewData["UrunAdi"]=> @ViewData["Fiyat"] </span></li> 
+    </ul>
+</div>

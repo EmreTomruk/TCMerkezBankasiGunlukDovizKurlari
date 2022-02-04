@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "TCMBCurrencies/1.0.0": {
         "dependencies": {
+          "HtmlAgilityPack": "1.11.41",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "5.0.13",
           "Newtonsoft.Json": "13.0.1",
           "System.Collections": "4.3.0",
@@ -325,6 +326,17 @@
         },
         "compile": {
           "TCMBCurrencies.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.41": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.41.0",
+            "fileVersion": "1.11.41.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {}
         }
       },
       "Microsoft.AspNetCore.Mvc.Razor.Extensions/5.0.13": {
@@ -2255,6 +2267,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.41": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AlPLR4O/uf1PEa7yTQrfc0GKMZyVjAlXjAGODY8UkCNgewHiI9U9CRetMbJU8MgsFv6rUd6EErwr8zUXXEA+Jw==",
+      "path": "htmlagilitypack/1.11.41",
+      "hashPath": "htmlagilitypack.1.11.41.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Mvc.Razor.Extensions/5.0.13": {
       "type": "package",

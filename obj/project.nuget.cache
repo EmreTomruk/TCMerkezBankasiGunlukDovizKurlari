@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8FV0dK5qLav8Xs3UDXf4Rbxu74DqSFl001R7zJDdfO/RvrfvrBzoSyj9JxoiyJ0yVKwtvPtHvNgeXWwNHws8zA==",
+  "dgSpecHash": "54B1NE0xx3bBIO2ogtUlQr+VQz3cOx6HULs8vsf0foaaz9IS3VZJK/d2fP7u5SH5g3nAuNxGMMhZzmsQG/XQqw==",
   "success": true,
   "projectFilePath": "D:\\Emre Tomruk\\repos\\TCMBCurrencies\\TCMBCurrencies\\TCMBCurrencies.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\etomr\\.nuget\\packages\\htmlagilitypack\\1.11.41\\htmlagilitypack.1.11.41.nupkg.sha512",
     "C:\\Users\\etomr\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.13\\microsoft.aspnetcore.mvc.razor.extensions.5.0.13.nupkg.sha512",
     "C:\\Users\\etomr\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.13\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.13.nupkg.sha512",
     "C:\\Users\\etomr\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.13\\microsoft.aspnetcore.razor.language.5.0.13.nupkg.sha512",

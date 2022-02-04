@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCMBCurrencies", "TCMBCurrencies.csproj", "{73CA26CD-07FC-4C2D-AF1E-17DECE745DF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCMBCurrencies", "TCMBCurrencies.csproj", "{73CA26CD-07FC-4C2D-AF1E-17DECE745DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApp", "..\NewsApp\NewsApp.csproj", "{462B1633-5357-42EF-8C02-34BF8B16E288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News", "..\News\News.csproj", "{AD00F466-0422-40FB-A776-C163B6FD690B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{73CA26CD-07FC-4C2D-AF1E-17DECE745DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73CA26CD-07FC-4C2D-AF1E-17DECE745DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73CA26CD-07FC-4C2D-AF1E-17DECE745DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462B1633-5357-42EF-8C02-34BF8B16E288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462B1633-5357-42EF-8C02-34BF8B16E288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462B1633-5357-42EF-8C02-34BF8B16E288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462B1633-5357-42EF-8C02-34BF8B16E288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD00F466-0422-40FB-A776-C163B6FD690B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD00F466-0422-40FB-A776-C163B6FD690B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD00F466-0422-40FB-A776-C163B6FD690B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD00F466-0422-40FB-A776-C163B6FD690B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

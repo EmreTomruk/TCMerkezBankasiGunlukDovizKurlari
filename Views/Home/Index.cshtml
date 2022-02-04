@@ -1,11 +1,12 @@
-﻿@model Currencies
+﻿@using TCMBCurrencies.Models
+@model Currencies
 
 @{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="container">
-    <h2>Güncel Döviz Kurları - <span class="text-light-50-info"> @DateTime.Now.Date.ToShortDateString()</span></h2>
+    <h2>Güncel Döviz Kurları - <span class="text-light-50-info"> @DateTime.Now.Date.ToShortDateString()</span></h2><a asp-controller="NewsWebsite" asp-action="Index"><h2>Haber Sitesi</h2></a>
     <ul class="list-group">
 
         <li class="list-group-item"><span class="text-light-50-inf">Döviz Cinsi /</span> <span> Alış Fiyatı /</span><span class="text-light-50-inf"> Satış Fiyatı</span></li> 

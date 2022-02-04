@@ -325,7 +325,6 @@ D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\bin\Debug\net5.0\ru\Microsoft
 D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\obj\Debug\net5.0\TCMBCurrencies.csproj.AssemblyReference.cache
 D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\obj\Debug\net5.0\TCMBCurrencies.GeneratedMSBuildEditorConfig.editorconfig
 D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\obj\Debug\net5.0\TCMBCurrencies.AssemblyInfoInputs.cache
 D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\obj\Debug\net5.0\TCMBCurrencies.AssemblyInfo.cs
@@ -355,3 +354,9 @@ D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\obj\Debug\net5.0\ref\TCMBCurr
 D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\obj\Debug\net5.0\TCMBCurrencies.pdb
 D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\obj\Debug\net5.0\TCMBCurrencies.genruntimeconfig.cache
 D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\obj\Debug\net5.0\Razor\Views\NewsWebsite\Index.cshtml.g.cs
+D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\bin\Debug\net5.0\packages\HtmlAgilityPack.1.11.41\lib\netstandard1.3\HtmlAgilityPack.deps.json
+D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\bin\Debug\net5.0\packages\HtmlAgilityPack.1.11.41\lib\netstandard1.6\HtmlAgilityPack.deps.json
+D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\bin\Debug\net5.0\packages\HtmlAgilityPack.1.11.41\lib\netstandard2.0\HtmlAgilityPack.deps.json
+D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Emre Tomruk\repos\TCMBCurrencies\TCMBCurrencies\obj\Debug\net5.0\TCMBCurrencies.csproj.AssemblyReference.cache
